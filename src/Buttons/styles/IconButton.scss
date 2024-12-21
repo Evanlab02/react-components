@@ -1,0 +1,15 @@
+.lab-btn-icon {
+    background-color: var(--btn-icon-color);
+    border: 1px var(--btn-icon-border) solid;
+    width: 50px;
+    height: 32px;
+    padding: 4px;
+    box-sizing: border-box;
+    border-radius: 5px;
+    font-weight: bold;
+    transition: 0.5s;
+}
+
+.lab-btn-icon:hover {
+    background-color: var(--btn-icon-hover);
+}
