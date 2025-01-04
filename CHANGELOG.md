@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.1.1](https://github.com/Evanlab02/react-components/compare/v0.1.0...v0.1.1) (2025-01-04)
+
+
+### Bug Fixes
+
+* **Build:** Remove react from build ([0362223](https://github.com/Evanlab02/react-components/commit/036222360a2928b138d4e38a69f8ac4f3c25bfe6))
+
 ## 0.1.0 (2024-12-21)
 
 
