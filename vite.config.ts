@@ -24,6 +24,9 @@ export default defineConfig({
 				return "index.cjs";
 			},
 		},
+		rollupOptions: {
+			external: ["react", "react-dom", "react-jsx-runtime", "react-jsx-dev-runtime"]
+		},
 		sourcemap: true,
 		emptyOutDir: true
 	},
@@ -34,5 +37,4 @@ export default defineConfig({
 			}
 		}
 	},
-
 });
